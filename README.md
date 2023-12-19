@@ -1,4 +1,6 @@
-![image](https://github.com/Devanshu254/AI-Sight-The-Social-help/assets/99939860/1ce64919-f5f0-44b6-b8ba-b0749f0174cf)
+![SntvtViatGIF](https://github.com/Devanshu254/AI-Sight-The-Social-help/assets/99939860/685f5142-1340-4fa3-87cd-227a1fc16d99)
+
+The main objective of composite model is to assist blind person in navigating. The key is to develop and implement such algorithms on mobile device to enhance the mobility of the user while restricting the expences.
 
 Some Screenshots.
 
